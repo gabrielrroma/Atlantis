@@ -1,4 +1,4 @@
-NOME DO GRUPO : Atlantis
+NOME DO GRUPO : Tasty
 
 Integrantes do grupo:
 
@@ -14,7 +14,7 @@ Integrantes do grupo:
 
 *João Lyra Monteiro (jlm@cesar.school)
 
-Tema do projeto: Vida na água.
+Tema do projeto: Receitas Personalizadas
 
 LINKS :
 
