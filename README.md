@@ -24,10 +24,9 @@ LINKS :
 
 ## Descrição do projeto:
 
-o projeto se constitui em uma Agenda de Eventos: 
+o projeto se constitui em um Aplicativo de Receitas Personalizadas: 
 
-O aplicativo fornece informações sobre eventos de limpeza de praias que estão acontecendo em diferentes locais. 
-Os usuários podem se inscrever facilmente e participar ativamente dessas iniciativas.
+ O aplicativo vai Oferecer receitas culinárias adaptadas às preferências do usuário.
 
 Registro de Limpeza: 
 
