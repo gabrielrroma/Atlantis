@@ -28,14 +28,24 @@ o projeto se constitui em um Aplicativo de Receitas Personalizadas:
 
  O aplicativo vai Oferecer receitas culinárias adaptadas às preferências do usuário.
 
-Registro de Limpeza: 
+Questionário sobre preferências alimentares : 
 
-Os participantes podem registrar o lixo que coletam durante as limpezas de praia usando o aplicativo. 
-Isso cria um registro do impacto positivo que estão tendo no ambiente.
+///////////////////////
+///////////////////////
 
-Sistema de Recompensas: 
+sugestões de receitas :
 
-Para incentivar a participação contínua, o Mar Limpo implementa um sistema de recompensas. 
-Os usuários acumulam pontos com base na quantidade de lixo coletado e em seu envolvimento em eventos. 
-Esses pontos podem ser trocados por prêmios, como produtos ecológicos, Títulos no aplicativo, 
-ou até mesmo contribuições para instituições de caridade ambientais registradas no aplicativo.
+////////////////////////
+///////////////////////
+
+lista de compras integrada :
+
+/////////////////////
+/////////////////////
+
+avaliações de receitas :
+
+//////////////////
+//////////////////
+
+
