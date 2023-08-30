@@ -10,6 +10,10 @@ Integrantes do grupo:
 
 *Gabriel Correia (gcp@cesar.school)
 
+*Mariana Medeiros (mmbc@cesar.school)
+
+*João Lyra Monteiro (jlm@cesar.school)
+
 Tema do projeto: Vida na água.
 
 LINKS :
