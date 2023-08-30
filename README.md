@@ -69,4 +69,8 @@ Galeria de Fotos dos Usuários: Encoraje os usuários a enviar fotos das receita
 
 Filtros e Ordenação: Permita que os usuários filtrem e ordenem as receitas com base em classificações, número de avaliações ou popularidade. Isso facilita a localização de receitas bem avaliadas.
 
+Melhores Receitas Avaliadas: Destaque uma seção com as receitas mais bem avaliadas ou um "Hall da Fama" com as receitas que receberam as melhores avaliações ao longo do tempo.
+
+
+
 
