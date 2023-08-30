@@ -30,8 +30,24 @@ o projeto se constitui em um Aplicativo de Receitas Personalizadas:
 
 Questionário sobre preferências alimentares : 
 
-///////////////////////
-///////////////////////
+Serviços de entrega de refeições: Para personalizar os menus e oferecer opções que atendam às preferências e restrições alimentares dos clientes.
+
+Sites e aplicativos de receitas: Para recomendar receitas que se encaixem nos gostos e necessidades dietéticas dos usuários.
+
+Restaurantes: Para garantir que os clientes recebam refeições adequadas às suas preferências e restrições quando fazem pedidos.
+
+Programas de saúde e bem-estar: Para criar planos de dieta personalizados.
+
+Exemplos de perguntas comuns em um questionário de preferências alimentares podem incluir:
+
+Você tem alergias alimentares? Se sim, quais?
+Você segue alguma dieta específica (vegetariana, vegana, sem glúten, etc.)?
+Quais são seus alimentos favoritos?
+Quais alimentos ou ingredientes você evita ou não gosta?
+Você tem alguma restrição calórica ou objetivo de dieta (perda de peso, ganho muscular, etc.)?
+Qual é a sua preferência de cozinha (italiana, asiática, mediterrânea, etc.)?
+Você tem alguma preferência por alimentos orgânicos, locais ou sustentáveis?
+
 
 sugestões de receitas :
 
