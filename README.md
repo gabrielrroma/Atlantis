@@ -41,3 +41,6 @@ perguntas comuns em um questionário de preferências alimentares podem incluir.
 sugestões de receitas.
 
 avaliações de receitas.
+
+Print do quadro e do backlog (JIRA)
+![Captura_de_tela_ do jira](https://github.com/gabrielrroma/Tasty/assets/137455847/db262ed1-362b-46b0-99c0-94da307e7b0e)
