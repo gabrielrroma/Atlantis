@@ -43,4 +43,5 @@ sugestões de receitas.
 avaliações de receitas.
 
 Print do quadro e do backlog (JIRA)
-![Captura_de_tela_ do jira](https://github.com/gabrielrroma/Tasty/assets/137455847/db262ed1-362b-46b0-99c0-94da307e7b0e)
+![image](https://github.com/gabrielrroma/Tasty/assets/94148127/3aee6cbd-e908-414b-bd11-33bbf9c59be0)
+
