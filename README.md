@@ -18,7 +18,7 @@ Tema do projeto: Receitas Personalizadas
 
 LINKS :
 
-## Jira: https://kboo.atlassian.net/jira/software/projects/TA/boards/1
+## Jira: https://flavorfusion.atlassian.net/jira/software/projects/HIS/boards/1/backlog?selectedIssue=HIS-3
 
 ## Trello: https://trello.com/invite/projetodefundamentosdedesenvolvimentodesoftware/ATTIb870e1a7dc35061821cfd4327a1672a6CD892D8A
 
