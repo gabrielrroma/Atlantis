@@ -46,7 +46,7 @@ Print do quadro e do backlog (JIRA)
 ![image](https://github.com/gabrielrroma/Tasty/assets/94148127/3aee6cbd-e908-414b-bd11-33bbf9c59be0)
 
 Sketches :
-https://www.figma.com/file/X3NG8no4J4LQSQNhpq3sOj/Flavor-Fusion?type=design&node-id=575-272&mode=design&t=D54X2VMU56A4lYiE-0
+
 
 
 
