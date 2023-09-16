@@ -49,7 +49,8 @@ Sketches :
 
 - Tela Login 
 
-  ![Captura de Tela (10)](https://github.com/gabrielrroma/Tasty/assets/137455847/17a8057a-76e3-479c-9586-bdf40f381683)
+ ![Captura de Tela (10)](https://github.com/gabrielrroma/Tasty/assets/137455847/e6ea9c3a-4dc8-4645-8e9a-3c93b7daa938)
+
 
 
 
