@@ -48,6 +48,8 @@ Print do quadro e do backlog (JIRA)
 Sketches :
 
 - Tela Login 
-  ![Captura de Tela (10)](https://github.com/gabrielrroma/Tasty/assets/137455847/74db646e-d007-4816-8e68-20892d093f44)
+
+  ![Captura de Tela (10)](https://github.com/gabrielrroma/Tasty/assets/137455847/17a8057a-76e3-479c-9586-bdf40f381683)
+
 
 
