@@ -47,14 +47,16 @@ Print do quadro e do backlog (JIRA)
 
 Sketches :
 
-- Tela Login 
+- Tela, Login :
 
  ![Captura de Tela (10)](https://github.com/gabrielrroma/Tasty/assets/137455847/e6ea9c3a-4dc8-4645-8e9a-3c93b7daa938)
 
-- Criar nova conta
+- Tela, Criar nova conta
 
 ![Captura de Tela (11)](https://github.com/gabrielrroma/Tasty/assets/137455847/d52e4cf2-fdc4-4078-933d-bad0e197163d)
 
-
+- Tela, Menu :
+  
+![Captura de Tela (12)](https://github.com/gabrielrroma/Tasty/assets/137455847/abc4e73d-1f1d-44a2-bde9-b4ba7d1b1661)
 
 
