@@ -67,4 +67,5 @@ Sketches :
 
 ![Captura de Tela (14)](https://github.com/gabrielrroma/Tasty/assets/137455847/f71b35ca-dfe4-4f70-8e89-7979e3483449)
 
+![Captura de Tela (15)](https://github.com/gabrielrroma/Tasty/assets/137455847/30a803bb-5b9a-4f9c-b4da-3c6d50b580f5)
 
