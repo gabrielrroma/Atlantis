@@ -10,7 +10,7 @@ Integrantes do grupo:
 
 *Gabriel Correia (gcp@cesar.school)
 
-*Mariana Medeiros (mmbc@cesar.school)
+*Mariana Correia (mmbc@cesar.school)
 
 *João Lyra Monteiro (jlm@cesar.school)
 
