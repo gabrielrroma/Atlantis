@@ -83,5 +83,8 @@ https://www.loom.com/share/a68090bf522a4feb898b98f7e41b7ffb
 
 
 -Diagrama de atividades do sistema : 
+
+
+
 ![Diagrama-de-atividades](https://github.com/gabrielrroma/Tasty/assets/80489162/abc5d811-7cb2-489d-b1ca-bde1e9513e76)
 
