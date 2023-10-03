@@ -89,4 +89,4 @@ https://www.loom.com/share/a68090bf522a4feb898b98f7e41b7ffb
 ![Diagrama-de-atividades](https://github.com/gabrielrroma/Tasty/assets/80489162/abc5d811-7cb2-489d-b1ca-bde1e9513e76)
 
 - Print Sprint 1:
-[captura.jpg.pdf](https://github.com/gabrielrroma/Tasty/files/12787972/captura.jpg.pdf)
+![Captura de tela 2023-10-02 233409](https://github.com/gabrielrroma/Tasty/assets/111062417/a42e5d88-6277-487c-84bf-dd7d4a78ec7b)
