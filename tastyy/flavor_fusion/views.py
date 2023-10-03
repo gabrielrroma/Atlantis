@@ -10,4 +10,4 @@ def filtrarreceita(request):
     return render(request, 'flavor_fusion/filtrarreceita.html')
 
 def novareceita(request):
-    return render(request, 'flavor_fusion/novarreceita.html')
+    return render(request, 'flavor_fusion/novareceita.html')

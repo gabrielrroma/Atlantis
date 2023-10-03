@@ -20,6 +20,6 @@ from flavor_fusion import views
 urlpatterns = [
     path('login/', views.login, name='login'),
     path('cadastro/', views.cadastro, name='cadastro'),
-    path('filtrarreceitas/', views.filtrarreceita, name='filtrar receitas'),
-    path('novareceita/', views.novareceita, name='nova receita'),
+    path('filtrarreceita/', views.filtrarreceita, name='filtrarreceita'),
+    path('novareceita/', views.novareceita, name='novareceita'),
 ]

@@ -16,9 +16,9 @@
                     <li><a href="#">Menu</a></li>
                     <li><a href="#">Perfil</a></li>
                     <!-- Botão "Adicionar Receita" com ID "adicionar-receita-button" -->
-                    <li><a href="novareceita.html" id="adicionar-receita-button">Adicionar Receita</a></li>
+                    <li><a href="../novareceita" id="adicionar-receita-button">Adicionar Receita</a></li>
                     <!-- Botão "Sair" com ID "sair-button" -->
-                    <li><a href="login.html" id="sair-button">Sair</a></li>
+                    <li><a href="../login" id="sair-button">Sair</a></li>
                 </ul>
                 <div class="search-icon"><i class="fas fa-search"></i></div>
                 <form action="#" class="search-box"></form>
@@ -58,8 +58,8 @@
 
         // Adicione um ouvinte de evento de clique ao botão "Adicionar Receita"
         adicionarReceitaButton.addEventListener('click', function() {
-            // Redirecione para a página "novareceita.html" quando o botão for clicado
-            window.location.href = 'novareceita.html';
+            // Redirecione para a página "/novareceita" quando o botão for clicado
+            window.location.href = '../novareceita';
         });
 
         // Selecione o botão "Sair" usando seu ID
@@ -68,7 +68,7 @@
         // Adicione um ouvinte de evento de clique ao botão "Sair"
         sairButton.addEventListener('click', function() {
             // Redirecione para a página "login.html" quando o botão for clicado
-            window.location.href = 'login.html';
+            window.location.href = '../login';
         });
     </script>
 </body>

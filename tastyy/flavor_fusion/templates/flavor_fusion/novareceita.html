@@ -13,10 +13,8 @@
             <ul class="links">
                 <li><a href="#">Menu</a></li>
                 <li><a href="#">Perfil</a></li>
-                <!-- Botão "Adicionar Receita" com ID "adicionar-receita-button" -->
-                <li><a href="novareceita.html" id="adicionar-receita-button">Adicionar Receita</a></li>
                 <!-- Botão "Sair" com ID "sair-button" -->
-                <li><a href="login.html" id="sair-button">Sair</a></li>
+                <li><a href="../login" id="sair-button">Sair</a></li>
             </ul>
             <div class="search-icon"><i class="fas fa-search"></i></div>
             <form action="#" class="search-box">
@@ -53,7 +51,7 @@
         // Adicione um ouvinte de evento de clique ao botão "Criar Receita"
         criarReceitaButton.addEventListener('click', function() {
             // Redirecione para a página "filtrarreceita.html" quando o botão for clicado
-            window.location.href = 'filtrarreceita.html';
+            window.location.href = '/filtrarreceita';
         });
 
         // Selecione o botão "Cancelar" usando seu ID
@@ -62,7 +60,7 @@
         // Adicione um ouvinte de evento de clique ao botão "Cancelar"
         cancelarButton.addEventListener('click', function() {
             // Redirecione para a página "filtrarreceita.html" quando o botão for clicado
-            window.location.href = 'filtrarreceita.html';
+            window.location.href = '/filtrarreceita';
         });
     </script>
 </body>

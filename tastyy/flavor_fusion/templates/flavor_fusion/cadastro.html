@@ -54,7 +54,7 @@
             <div class="botoes-container">
                 <div class="botao">
                     <!-- Botão "Criar Conta" com ID "criar-conta-button" -->
-                    <button type="button" id="criar-conta-button">Criar Conta</button>
+                    <button type="button" id="criar-conta-button"><a href="../filtrarreceita">Criar Conta</a></button>
                 </div>
                 <div class="botao">
                     <!-- Botão "Cancelar" com ID "cancelar-button" -->
@@ -69,32 +69,10 @@
         // Selecione o botão "Criar Conta" usando seu ID
         const criarContaButton = document.getElementById('criar-conta-button');
 
-        // Selecione a checkbox "Selecionar Todas" usando seu ID
-        const selectAllCheckbox = document.getElementById('select-all');
-
-        // Selecione todas as outras checkboxes dentro da div "container1"
-        const outrasCheckboxes = document.querySelectorAll('.container1 input[type="checkbox"]:not(#select-all)');
-
-        // Adicione um ouvinte de evento de clique ao checkbox "Selecionar Todas"
-        selectAllCheckbox.addEventListener('click', function() {
-            // Verifique se o checkbox "Selecionar Todas" está selecionado
-            if (selectAllCheckbox.checked) {
-                // Se estiver selecionado, marque todas as outras checkboxes
-                outrasCheckboxes.forEach(function(checkbox) {
-                    checkbox.checked = true;
-                });
-            } else {
-                // Caso contrário, desmarque todas as outras checkboxes
-                outrasCheckboxes.forEach(function(checkbox) {
-                    checkbox.checked = false;
-                });
-            }
-        });
-
         // Adicione um ouvinte de evento de clique ao botão "Criar Conta"
         criarContaButton.addEventListener('click', function() {
-            // Redirecione para a página "filtrarreceita.html" quando o botão for clicado
-            window.location.href = 'filtrarreceita';
+            // Redirecione para a página "../filtrarreceita" quando o botão for clicado
+            window.location.href = '../filtrarreceita';
         });
     </script>
 </body>
