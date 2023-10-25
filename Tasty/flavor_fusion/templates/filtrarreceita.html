@@ -17,6 +17,8 @@
                     <li><a href="#">Perfil</a></li>
                     <!-- Botão "Adicionar Receita" com ID "adicionar-receita-button" -->
                     <li><a href="../novareceita" id="adicionar-receita-button">Adicionar Receita</a></li>
+                    <li><a href="#">Recomendações</a></li>
+                    <li><a href="#">Histórico</a></li>
                     <!-- Botão "Sair" com ID "sair-button" -->
                     <li><a href="../login" id="sair-button">Sair</a></li>
                 </ul>
@@ -31,15 +33,15 @@
     <div class = "filtros"> 
         <div class="input-box">
             <label>Alergias</label>
-            <input type="text" placeholder="Possui alguma alergia?" required />
+            <input type="text" class = "alergia" placeholder="Possui alguma alergia?" required />
         </div>
         <div class="input-box">
             <label>Intolerancias:</label>
-            <input type="text" placeholder="Possui alguma intolerância?" required />
+            <input type="text" class = "intolerancia" placeholder="Possui alguma intolerância?" required />
         </div>
         <div class="input-box">
             <label>Comida detestável</label>
-            <input type="text" placeholder="O que não gosta?" required />
+            <input type="text" class = "comidadetestavel" placeholder="O que não gosta?" required />
         </div>
         <div class="filters-date">
             <label for="start-date">Data:</label>

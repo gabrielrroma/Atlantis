@@ -64,16 +64,25 @@
         </form>
     </section>
 
-    <!-- Adicione o código JavaScript abaixo -->
     <script>
         // Selecione o botão "Criar Conta" usando seu ID
         const criarContaButton = document.getElementById('criar-conta-button');
-
+    
         // Adicione um ouvinte de evento de clique ao botão "Criar Conta"
         criarContaButton.addEventListener('click', function() {
             // Redirecione para a página "../filtrarreceita" quando o botão for clicado
-            window.location.href = '../filtrarreceita';
+            window.location.href = 'filtrarreceita.html';
+        });
+    
+        // Selecione o botão "Cancelar" usando seu ID
+        const cancelarButton = document.getElementById('cancelar-button');
+    
+        // Adicione um ouvinte de evento de clique ao botão "Cancelar"
+        cancelarButton.addEventListener('click', function() {
+            // Redirecione para a página "/login" quando o botão for clicado
+            window.location.href = '/login.html';
         });
     </script>
+    
 </body>
 </html>
