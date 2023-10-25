@@ -92,3 +92,11 @@ https://www.loom.com/share/a68090bf522a4feb898b98f7e41b7ffb
 ![Captura de tela 2023-10-02 233409](https://github.com/gabrielrroma/Tasty/assets/111062417/a42e5d88-6277-487c-84bf-dd7d4a78ec7b)
 
 # Entrega 3 :
+
+Relatório do uso da programação em Par:
+
+- Relatório do "Uso da programação em Par" : Gabriel Roma, Rubens Filho  : Nossa experiência com programação em par foi altamente positiva. Ao trabalharmos em conjunto, dividimos tarefas complexas em partes menores, o que promoveu a colaboração e a tomada de decisões conjuntas desde o início. A diversidade de habilidades na equipe enriqueceu nosso conhecimento e habilidades, e a comunicação constante eliminou mal-entendidos, resultando em código de alta qualidade com menos erros.
+
+- Relatório do "Uso da programação em Par" (Gabriel Pontes e Gabriel Roma) : Nossa experiência em geral foi positiva com ambas as partes se ajudando e se complementando trabalhar em equipe melhorou a qualidade do código e acelerou o processo nos permitindo aprender uns com os outros.
+
+- Relatório do "Uso da programação em Par" (Gabriel Pontes e Rubens Filho) : Nossa experiência foi positiva apesar de temos enfrentado dificuldades para centralizar o elemento "body" no CSS , apesar das dificuldades nossa colaboração nos permitiu superar os desafios e assim conseguimos aprender juntos .
